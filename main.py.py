@@ -2,7 +2,7 @@ import cv2  # OpenCV for computer vision tasks
 import mediapipe as mp  # MediaPipe for hand tracking
 import pyautogui  # PyAutoGUI for mouse control and screenshots
 import random  # Random for generating random screenshot labels
-import util  # Custom utility functions (not provided here)
+import util  # Custom utility functions 
 from pynput.mouse import Button, Controller  # Pynput for advanced mouse control
 
 # Initialize the mouse controller
